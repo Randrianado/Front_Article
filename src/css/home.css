@@ -1,0 +1,19 @@
+nav{
+   background-color: #fff;
+   height: 100%;
+   width: 90%;
+   border-radius: 15px;
+   margin: 20px;
+   margin-left: 50px;
+   box-shadow: 0 0 10px gray;
+}
+.it{
+    text-decoration: none;
+    margin-left: 60px;
+    color:black;
+    font-weight: bold;
+}
+.btn1{
+    border: none;
+    background: none;
+}

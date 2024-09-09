@@ -1,0 +1,109 @@
+/* html {
+    font-size: 14px;
+  }
+  @media (min-width: 768px) {
+    html {
+      font-size: 16px;
+    }
+  }
+  
+  .container {
+    max-width: 960px;
+  }
+  
+  .pricing-header {
+    max-width: 700px;
+  }
+  
+  .card-deck .card {
+    min-width: 220px;
+  }
+  
+  .border-top { border-top: 1px solid #e5e5e5; }
+  .border-bottom { border-bottom: 1px solid #e5e5e5; }
+  
+  .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); } */
+  body{
+    color: #fff;
+    background-color: black;
+  }
+  .ar{
+    background-color: #333;
+  }
+.a{
+    color: #fff;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 10px;
+    text-decoration: none;
+}
+header{
+    margin-bottom: 10%;
+}
+.jj{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    color: tomato;
+    padding-top: 2px;
+ }
+ .ml{
+    margin-left: 15px;
+}
+.btn{
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.te input{
+  border: 2px solid #fff;
+  font-weight: bold;
+  border-radius: 3px 0px 3px 0px;
+}
+.j{
+    color: brown;
+    font-weight: bold;
+    width: 100%;
+}
+.clas{
+  height: 20px;
+  width: 20px;
+}
+.clas1{
+  height: 100px;
+  width:120px;
+}
+.clas2{
+  height: 70px;
+  width:120px;
+}
+.vide{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.k{
+  border: none;
+  background:none;
+}
+.te{
+  font-weight: bold;
+  font-style: italic;
+  padding: 10px;
+  text-decoration: underline;
+}
+.jer{
+    width: 5%;
+    text-align: center;
+}
+.sp{
+  position:absolute;
+  /* top:-10px;
+  right:-10px; */
+  background-color: red;
+  color:black;
+  font-weight: bold;
+  border-radius:50%;
+  padding:5px 10px;
+  font-size: 10px;
+}

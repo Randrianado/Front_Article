@@ -1,0 +1,37 @@
+.form1{
+    height: 400px;
+    width: 450px;
+    border-radius: 10px;
+    color: black;
+    background-color: #fff;
+    display: grid;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 35%;
+}
+.form label{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+}
+.form button{
+    height: 50px;
+    width: 450px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: cursive;
+}
+.qr{
+    margin-top: 20px;
+    margin-left: 35%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    height: 250px;
+    width: 450px;
+    border:none;
+    display: grid;
+}
